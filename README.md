@@ -1,4 +1,4 @@
-# Minesweeper-With-CSS
+# Minesweeper-With-C++
 Minesweeper made in css
 
 > The boxes are chosen in a table using their position according to the row and column.
